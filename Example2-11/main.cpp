@@ -95,7 +95,7 @@ int main(int argc, char * argv[])
     glutInitWindowSize(480,480);
     glutInitWindowPosition(100,100);
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH);
-    glutCreateWindow("Example2-10");
+    glutCreateWindow("Example2-11");
     
     // init vertex
     initVertex();
